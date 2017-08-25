@@ -1,0 +1,52 @@
+a{
+    color: red;
+    font-size: 15px;
+    font-weight: 900;
+    text-decoration:none;
+}
+
+a:hover{
+    color: red;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.inner{
+    width: 850px;
+    background: #FFFF99;
+}
+
+.bg{
+    width: 425px;
+    border: 1px dotted;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size:24px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+}
+
+.box2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size:24px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#fff;
+    line-height:50px;
+    text-align:center;
+    background:red;
+}
+
+.box3{
+    height: 50px;
+}
